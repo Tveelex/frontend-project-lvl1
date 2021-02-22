@@ -5,4 +5,4 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 
 ### GitHub Actions Badge
-https://github.com/tveelex/frontend-project-lvl1/actions/workflows/eslint.yml/badge.svg
+![example workflow](https://github.com/tveelex/frontend-project-lvl1/actions/workflows/eslint.yml/badge.svg)
