@@ -6,3 +6,6 @@
 
 ### GitHub Actions:
 ![example workflow](https://github.com/tveelex/frontend-project-lvl1/actions/workflows/eslint.yml/badge.svg)
+
+### Asciinema:
+[![asciicast](https://asciinema.org/a/1uxG9ZZiHDpSD5FajqEezYzv4.svg)](https://asciinema.org/a/1uxG9ZZiHDpSD5FajqEezYzv4)
